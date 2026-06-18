@@ -2,9 +2,7 @@
 
 LegalConnect is a comprehensive, AI-driven legal matching and management platform built to bridge the gap between people seeking legal advice and professional vetted lawyers. It offers a secure, end-to-end environment capable of handling legal discovery, dynamic appointments, real-time multimedia communication, and encrypted file sharing.
 
-The platform provides dedicated, specialized web portal environments customized individually for **Clients** and **Lawyers**, connected via a robust, real-time matching system.
-
----
+The platform provides dedicated, specialized web portal environments customized individually for **Clients** and **Lawyers**, connected via a robust, real-time matching system
 
 ## 🚀 Features
 
@@ -132,3 +130,4 @@ For quick system verification (as seeded individually from your `schema.sql`), y
 
 ## ✨ Design Language Note
 The frontend utilizes a customized user-experience implementation heavily focused on high-trust, premium branding interactions. Noticeable features include CSS-based micro-animations matching modern industry-leading software metrics (specifically WhatsApp for chat portals), dynamic SVG manipulation handling resolution shifts natively, and layout-independent component arrays to resist viewport fracturing.
+
