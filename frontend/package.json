@@ -1,0 +1,25 @@
+{
+  "name": "legalconnect-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "chart.js": "^4.5.1",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.x.x",
+    "socket.io-client": "^4.x.x"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "baseline-browser-mapping": "^2.9.18",
+    "vite": "^6.4.1"
+  }
+}
